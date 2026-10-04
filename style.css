@@ -1,0 +1,23 @@
+.title {
+  color: blueviolet;
+  font-size: 86px;
+  background-color: cornflowerblue;
+  text-align: center;
+}
+
+.text {
+  font-size: 43px;
+  color: darkblue;
+  background-color: rgb(123, 129, 43);
+}
+.text2 {
+  color: rebeccapurple;
+  font-size: 45px;
+  background-color: aqua;
+}
+.text3 {
+  color: cadetblue;
+  background-color: grey;
+  font-size: 67px;
+  text-align: right;
+}
